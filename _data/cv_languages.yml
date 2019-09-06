@@ -1,5 +1,5 @@
 - name: Chinese 
-  level: Native
+  level: Beginner
 
 - name: English 
   level: Fluent
@@ -12,3 +12,6 @@
 
 - name: Cantonese 
   level: Beginner
+
+- name: Spanish
+  level: Native
